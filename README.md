@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [City Eye Center](https://www.cityeyecenter.jo/)
 
-- 💬 Ask me about **Node Js , React Js , Express Js**
+- 💬 Ask me about **Node Js , Express Js , React Js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahmad ghanimah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/g-mail-alt.svg" alt="ahmad ghanimah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmad ghanimah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad ghanimah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
