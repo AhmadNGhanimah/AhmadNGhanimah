@@ -15,20 +15,20 @@
 <p align="left">
   <a href="https://linkedin.com/in/ahmad ghanimah" target="blank"
     ><img
-      align="center"
+      align="left"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="ahmad ghanimah"
-      height="120"
-      width="40"
+      height="40"
+      width="120"
   /></a>
 
   <a href="mailto:ahmad.n.ghanimah@gmail.com" target="blank"
     ><img
-      align="center"
+      align="left"
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="ahmad ghanimah"
-      height="120"
-      width="40"
+      height="40"
+      width="120"
   /></a>
 </p>
 
