@@ -22,7 +22,7 @@
       width="120"
   /></a>
 
-  <a href="mailto:ahmad.n.ghanimah@gmail.com" target="blank"
+  <a href="mailto:ahmad.ny.ghanimah@gmail.com" target="blank"
     ><img
       align="center"
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
